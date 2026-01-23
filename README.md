@@ -2,7 +2,7 @@
 
 # 🌟 Data Analyst Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Machine+Learning;Welcome+to+my+Portfolio!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Machine+Learning;Welcome+to+my+Portfolio!" alt="Typing SVG" />
 
 
 <p align="center">
@@ -197,4 +197,5 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 
 </div>
+
 
