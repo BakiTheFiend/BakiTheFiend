@@ -201,3 +201,4 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 
 
+
