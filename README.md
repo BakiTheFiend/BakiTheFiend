@@ -121,93 +121,6 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 </div>
 
-## 🚀 Quick Start
-
-<div align="center">
-
-```bash
-# Clone the repository
-git clone https://github.com/Muichiro96/data-analyst-portfolio.git
-
-# Navigate to project directory
-cd data-analyst-portfolio
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-**🌐 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.**
-
-</div>
-
-## 📁 Project Architecture
-
-<div align="center">
-
-```
-📦 data-analyst-portfolio
-├── 🎨 app/                    # Next.js App Router
-│   ├── globals.css           # Global styles & animations
-│   ├── layout.tsx            # Root layout component
-│   └── page.tsx              # Home page
-├── 🧩 components/            # React components
-│   ├── 🎭 ui/               # Reusable UI components
-│   ├── 🦸 hero.tsx          # Hero section with animations
-│   ├── 👤 about.tsx         # About me section
-│   ├── 💼 experience.tsx    # Work experience timeline
-│   ├── � projects.tsx     # Featured projects
-│   ├── 🛠️ skills.tsx       # Technical skills
-│   └── 📞 contact.tsx       # Contact information
-├── 🎯 public/               # Static assets
-│   ├── 🔤 fonts/           # Custom fonts (Nexa)
-│   ├── 🖼️ images/          # Project images
-│   └── 🏢 *.png            # Company logos
-└── 📚 lib/                 # Utility functions
-```
-
-</div>
-
-## 🎨 Customization Guide
-
-<details>
-<summary><b>🎨 Colors & Theme</b></summary>
-
-The portfolio uses a custom dark theme. Modify colors in `app/globals.css`:
-
-```css
-:root {
-  --primary: oklch(0.7 0.15 180);     /* Main accent color */
-  --background: oklch(0.13 0.02 240); /* Dark background */
-  --foreground: oklch(0.95 0.01 240); /* Text color */
-  /* ... more variables */
-}
-```
-
-</details>
-
-<details>
-<summary><b>🔤 Fonts</b></summary>
-
-Custom fonts are in `public/fonts/`. The portfolio uses:
-- **Nexa Regular** for brand elements (Expleo Group)
-- **Geist** for body text
-
-</details>
-
-<details>
-<summary><b>📝 Content</b></summary>
-
-Update your information in these files:
-- `components/hero.tsx` - Personal info & social links
-- `components/experience.tsx` - Work experience & company logos
-- `components/projects.tsx` - Featured projects
-- `components/skills.tsx` - Technical skills
-
-</details>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -287,5 +200,6 @@ Update your information in these files:
 **Made with ❤️ and lots of ☕**
 
 *© 2025 Oussama Afroukh. All rights reserved.*
+
 
 </div>
