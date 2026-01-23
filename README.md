@@ -38,20 +38,8 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 - 📈 Create dynamic dashboards with **Looker Studio**
 - 🐍 Automate campaign launches using **Python** and **Selenium**
 
-## ✨ Portfolio Features
+🌐 **Portfolio:** [Visit My Website](https://my-portfolio-2wdk-d4yz37djy-muichiro96s-projects.vercel.app/)
 
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| 🎨 **Modern Design** | Dark theme with smooth animations |
-| 📱 **Responsive** | Optimized for all devices |
-| ⚡ **Performance** | Built with Next.js 14 & TypeScript |
-| 🎭 **Interactive** | Framer Motion powered transitions |
-| 🏢 **Professional** | Company logos & branding |
-| 🌐 **SEO Optimized** | Meta tags & structured data |
-
-</div>
 
 ## �️ Tech Stack
 
@@ -198,6 +186,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 
 </div>
+
 
 
 
