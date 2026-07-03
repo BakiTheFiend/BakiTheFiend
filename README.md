@@ -13,7 +13,7 @@
   <a href="mailto:o.afroukhh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Muichiro96">
+  <a href="https://github.com/BakiTheFiend">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -108,13 +108,13 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muichiro96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BakiTheFiend&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muichiro96&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BakiTheFiend&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muichiro96&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakiTheFiend&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muichiro96&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BakiTheFiend&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B" alt="Activity Graph" />
 
 </div>
 
@@ -122,7 +122,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muichiro96&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BakiTheFiend&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -164,7 +164,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Muichiro96&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=BakiTheFiend&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
 
 <p align="center">
   <i>⭐ If you found this portfolio helpful, please give it a star!</i>
