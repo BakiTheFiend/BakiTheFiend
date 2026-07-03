@@ -2,7 +2,7 @@
 
 # 🌟 Data Analyst Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+%26+Business+Analyst;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Machine+Learning;Welcome+to+my+Portfolio!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+%26+Business+Analyst;Turning+Data+into+Insights">
 
 
 
@@ -41,7 +41,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 🌐 **Portfolio:** [Visit My Website](https://my-portfolio-weld-sigma-13.vercel.app/)
 
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -67,6 +67,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
@@ -145,7 +146,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### � Get in Touch
+### 📬 Get in Touch
 
 <p>
   <a href="mailto:o.afroukhh@gmail.com">
@@ -171,7 +172,7 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Data+%2B+Insights+%3D+Impact" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing!"
 </p>
 
 </div>
@@ -184,11 +185,4 @@ Currently working at **Expleo Group** 🚗 on the FOTA (Firmware Over-The-Air) p
 
 *© 2025 Oussama Afroukh. All rights reserved.*
 
-
 </div>
-
-
-
-
-
-
