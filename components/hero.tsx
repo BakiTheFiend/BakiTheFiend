@@ -55,7 +55,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-xl group-hover:bg-primary/30 transition-all duration-500" />
               <div className="relative w-full h-full rounded-full overflow-hidden border-2 border-primary/50 group-hover:border-primary transition-colors duration-300">
                 <Image
-                  src="/images/profile.jpg"
+                  src="/images/profile.png"
                   alt="Oussama Afroukh"
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
